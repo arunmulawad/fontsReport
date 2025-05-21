@@ -1,0 +1,152 @@
+{
+	"path": "",
+	"descriptors": [
+	  {
+		"name": "Poppins",
+		"style": "normal",
+		"weight": "normal",
+		"source": "https://github.com/Anand-Sinha/TESTSAMPLE/raw/main/resource/Fonts/PoppinsNormalNormal.woff2",
+		"locals": ["Poppins", "poppins", "sans-serif"],
+		"useAsDefault": true
+	  },
+	  {
+		"name": "Poppins",
+		"style": "normal",
+		"weight": "medium",
+		"source": "https://github.com/Anand-Sinha/TESTSAMPLE/raw/main/resource/Fonts/PoppinsNormalMedium.woff2",
+		"locals": ["Poppins", "poppins", "sans-serif"]
+	  },
+	  {
+		"name": "Poppins",
+		"style": "normal",
+		"weight": "semibold",
+		"source": "https://github.com/Anand-Sinha/TESTSAMPLE/raw/main/resource/Fonts/PoppinsNormalSemibold.woff2",
+		"locals": ["Poppins", "poppins", "sans-serif"]
+	  },
+	  {
+		"name": "Poppins",
+		"style": "normal",
+		"weight": "bold",
+		"source": "https://github.com/Anand-Sinha/TESTSAMPLE/raw/main/resource/Fonts/PoppinsNormalBold.woff2",
+		"locals": ["Poppins", "poppins", "sans-serif"]
+	  },
+	  {
+		"name": "Nunito Sans",
+		"style": "normal",
+		"weight": "normal",
+		"source": "https://github.com/Anand-Sinha/TESTSAMPLE/raw/main/resource/Fonts/NunitoSansNormalNormal.woff2",
+		"locals": ["Nunito Sans", "nunitosans", "nunito", "sans-serif"]
+	  },
+	  {
+		"name": "Nunito Sans",
+		"style": "normal",
+		"weight": "semibold",
+		"source": "https://github.com/Anand-Sinha/TESTSAMPLE/raw/main/resource/Fonts/NunitoSansNormalSemibold.woff2",
+		"locals": ["Nunito Sans", "nunitosans", "nunito", "sans-serif"]
+	  },
+	  {
+		"name": "Nunito Sans",
+		"style": "normal",
+		"weight": "bold",
+		"source": "https://github.com/Anand-Sinha/TESTSAMPLE/raw/main/resource/Fonts/NunitoSansNormalBold.woff2",
+		"locals": ["Nunito Sans", "nunitosans", "nunito", "sans-serif"]
+	  },
+	  {
+		"name": "Open Sans"
+	  },
+	  {
+		"name": "Arial"
+	  },
+	  {
+		"name": "Arial Black"
+	  },
+	  {
+		"name": "Comic Sans MS"
+	  },
+	  {
+		"name": "Courier New"
+	  },
+	  {
+		"name": "Geneva"
+	  },
+	  {
+		"name": "Georgia"
+	  },
+	  {
+		"name": "Helvetica"
+	  },
+	  {
+		"name": "Impact"
+	  },
+	  {
+		"name": "Lucida Console"
+	  },
+	  {
+		"name": "Meiryo"
+	  },
+	  {
+		"name": "Meiryo UI"
+	  },
+	  {
+		"name": "MingLiU"
+	  },
+	  {
+		"name": "MingLiU-ExtB"
+	  },
+	  {
+		"name": "MS Gothic"
+	  },
+	  {
+		"name": "MS Mincho"
+	  },
+	  {
+		"name": "MS PGothic"
+	  },
+	  {
+		"name": "MS PMincho"
+	  },
+	  {
+		"name": "MS Song"
+	  },
+	  {
+		"name": "MS UI Gothic"
+	  },
+	  {
+		"name": "NSimSun"
+	  },
+	  {
+		"name": "Osaka"
+	  },
+	  {
+		"name": "PMingLiU"
+	  },
+	  {
+		"name": "PMingLiU-ExtB"
+	  },
+	  {
+		"name": "SimSun"
+	  },
+	  {
+		"name": "SimSun-ExtB"
+	  },
+	  {
+		"name": "Song"
+	  },
+	  {
+		"name": "Tahoma"
+	  },
+	  {
+		"name": "Times New Roman"
+	  },
+	  {
+		"name": "Trebuchet MS"
+	  },
+	  {
+		"name": "Verdana"
+	  },
+	  {
+		"name": "Yu Gothic"
+	  }
+	]
+  }
+  

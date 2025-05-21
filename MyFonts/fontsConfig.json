@@ -1,0 +1,22 @@
+{
+  "descriptors": [
+    {
+      "name": "Arial",
+      "weight": "400",
+      "style": "normal",
+      "source": "/Fonts/arial.ttf"
+    },
+    {
+      "name": "SegoeUIEmoji",
+      "weight": "400",
+      "style": "normal",
+      "source": "/Fonts/SegoeUIEmoji.ttf"
+    },
+    {
+      "name": "Noto Emoji",
+      "weight": "400",
+      "style": "normal",
+      "source": "/Fonts/noto-emoji.regular.ttf"
+    }
+  ]
+}

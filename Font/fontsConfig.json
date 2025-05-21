@@ -1,0 +1,136 @@
+{
+	"path": "",
+	"descriptors": [
+		{
+			"name": "Montserrat",
+			"weight": "100",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-Thin.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "100",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-ThinItalic.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "200",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-ExtraLight.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "200",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-ExtraLightItalic.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "300",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-Light.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "300",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-LightItalic.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "400",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-Regular.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "400",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-Italic.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "500",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-Medium.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "500",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-MediumItalic.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "600",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-SemiBold.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "600",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-SemiBoldItalic.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "700",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-Bold.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "700",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-BoldItalic.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "800",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-ExtraBold.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "800",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "900",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-Black.ttf"
+		},
+		{
+			"name": "Montserrat",
+			"weight": "900",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Montserrat/Montserrat-BlackItalic.ttf"
+		},
+		{
+			"name": "Arial",
+			"weight": "400",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Arial/arial.ttf"
+		  },
+		  {
+			"name": "Arial",
+			"weight": "400",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Arial/ariali.ttf"
+		  },
+		  {
+			"name": "Arial",
+			"weight": "700",
+			"style": "normal",
+			"source": "/activereportsjs/demos/resource/Fonts/Arial/arialbd.ttf"
+		  },
+		  {
+			"name": "Arial",
+			"weight": "700",
+			"style": "italic",
+			"source": "/activereportsjs/demos/resource/Fonts/Arial/arialbi.ttf"
+		  }	  
+	]
+}
