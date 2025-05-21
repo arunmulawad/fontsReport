@@ -5,49 +5,49 @@
 			"name": "Arial",
 			"weight": "400",
 			"style": "normal",
-			"source": "https://raw.githubusercontent.com/Anand-Sinha/TESTSAMPLE/refs/heads/main/Fonts/arial.ttf"
+			"source": "https://raw.githubusercontent.com/arunmulawad/fontsReport/refs/heads/main/Fonts/arial.ttf"
 		  },
 		  {
 			"name": "Arial",
 			"weight": "400",
 			"style": "italic",
-			"source": "https://raw.githubusercontent.com/Anand-Sinha/TESTSAMPLE/refs/heads/main/Fonts/ariali.ttf"
+			"source": "https://raw.githubusercontent.com/arunmulawad/fontsReport/refs/heads/main/Fonts/ariali.ttf"
 		  },
 		  {
 			"name": "Arial",
 			"weight": "700",
 			"style": "normal",
-			"source": "https://raw.githubusercontent.com/Anand-Sinha/TESTSAMPLE/refs/heads/main/Fonts/arialbd.ttf"
+			"source": "https://raw.githubusercontent.com/arunmulawad/fontsReport/refs/heads/main/Fonts/arialbd.ttf"
 		  },
 		  {
 			"name": "Arial",
 			"weight": "700",
 			"style": "italic",
-			"source": "https://raw.githubusercontent.com/Anand-Sinha/TESTSAMPLE/refs/heads/main/Fonts/arialbi.ttf"
+			"source": "https://raw.githubusercontent.com/arunmulawad/fontsReport/refs/heads/main/Fonts/arialbi.ttf"
 		  },
 				  {
 			"name": "Helvetica",
 			"weight": "400",
 			"style": "normal",
-			"source": "https://raw.githubusercontent.com/Anand-Sinha/TESTSAMPLE/refs/heads/main/Fonts/HELVETICA.TTF"
+			"source": "https://raw.githubusercontent.com/arunmulawad/fontsReport/refs/heads/main/Fonts/HELVETICA.TTF"
 		  },
 				  {
 			"name": "Helvetica",
 			"weight": "400",
 			"style": "italic",
-			"source": "https://raw.githubusercontent.com/Anand-Sinha/TESTSAMPLE/refs/heads/main/Fonts/HELVETICA-OBLIQUE.TTF"
+			"source": "https://raw.githubusercontent.com/arunmulawad/fontsReport/refs/heads/main/Fonts/HELVETICA-OBLIQUE.TTF"
 		  },
 		{
 			"name": "Helvetica",
 			"weight": "700",
 			"style": "italic",
-			"source": "https://raw.githubusercontent.com/Anand-Sinha/TESTSAMPLE/refs/heads/main/Fonts/HELVETICA-BOLDOBLIQUE.TTF"
+			"source": "https://raw.githubusercontent.com/arunmulawad/fontsReport/refs/heads/main/Fonts/HELVETICA-BOLDOBLIQUE.TTF"
 		  },
 		{
 			"name": "Helvetica",
 			"weight": "700",
 			"style": "normal",
-			"source": "https://raw.githubusercontent.com/Anand-Sinha/TESTSAMPLE/refs/heads/main/Fonts/HELVETICA-BOLD.TTF"
+			"source": "https://raw.githubusercontent.com/arunmulawad/fontsReport/refs/heads/main/Fonts/HELVETICA-BOLD.TTF"
 		  }
 	]
   }
